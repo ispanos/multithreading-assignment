@@ -1,0 +1,6 @@
+#!/bin/bash
+
+[ -d "./src" ] && cd src/ || exit
+
+gcc -Wall -pthread o1150174.c
+./a.out 100 1000
