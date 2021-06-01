@@ -1,9 +1,5 @@
 # Multithreading assignment - Operating Systems
 
-## Project description
-
-## Spanos Ioannis - o1150174
-
 &nbsp;&nbsp;&nbsp;&nbsp;This assignment uses a pizzaria to simulate how a real program uses a set amount of resources to "produce" something in a multi-threaded scenario. Each new customer is represented by a new thread. The "operators" have to spend some time working on the customer's order (=thread), depending on the size of the order or a pre-set, pseudo-random amount of time.
 
 ## Restaurant to program translation
